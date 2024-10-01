@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer engineering, cybersecurity, and C++
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: khammashomar76@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a college student studying computer science
 
 <!---
